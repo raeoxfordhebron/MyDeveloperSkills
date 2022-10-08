@@ -1,0 +1,12 @@
+h1, form, .skills {
+    text-align: center;
+}
+
+h1 {
+    background-color: forestgreen;
+    color: white;
+}
+
+.skills {
+    color: #FFAE42
+}
